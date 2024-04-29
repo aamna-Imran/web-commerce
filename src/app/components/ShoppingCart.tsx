@@ -53,7 +53,7 @@ function ShoppingCart() {
               <ul className="divide-y divide-gray-200">
                 {cartCount === 0 ? (
                   <h1 className=" font-semibold lg:text-[1.2rem] text-[1rem]">
-                    You Don't have Any Items
+                    You Do not have Any Items
                   </h1>
                 ) : (
                   <>
